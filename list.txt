@@ -1,0 +1,9 @@
+#mongoDB
+#couchDB
+
+
+http://www.widriksson.com/install-mongodb-raspberrypi/
+
+
+sudo pip install pymongo
+
